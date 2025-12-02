@@ -1,3 +1,3 @@
-module github.com/intaacopilot/traefik-plugin-blockip/denyIpPlugin
+module github.com/intaacopilot/DenyIP/denyIpPlugin
 
 go 1.18

@@ -1,6 +1,6 @@
 displayName: "denyIpPlugin"
 type: middleware
-import: "github.com/intaacopilot/traefik-plugin-blockip/denyIpPlugin"
+import: "github.com/intaacopilot/DenyIP/denyIpPlugin"
 summary: "Middleware to block client IPs."
 testData:
   deniedIPs:
