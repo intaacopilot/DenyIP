@@ -1,6 +1,6 @@
 displayName: "denyIpPlugin"
-type: Middleware
-import: "github.com/intaacopilot/DenyIP/denyIpPlugin"
+type: middleware
+import: "github.com/intaacopilot/DenyIP"
 summary: "Middleware to block client IPs."
 testData:
     ipDenyList:
