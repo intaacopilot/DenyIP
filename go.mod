@@ -1,4 +1,4 @@
-module github.com/intaacopilot/denyip/v2
+module github.com/intaacopilot/denyip
 
 go 1.20
 
